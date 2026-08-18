@@ -1,0 +1,62 @@
+# Android build outputs
+*.apk
+*.aab
+*.dex
+*.class
+
+# Local Android configuration
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle build data (wrapper files should remain committed)
+.gradle/
+build/
+**/build/
+
+# Signing material — never commit
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+release-keystore*
+
+# Secrets and environment
+.env
+.env.*
+secrets.properties
+google-services.json
+google-services-staging.json
+
+# Native build outputs
+obj/
+*.so
+.externalNativeBuild/
+.cxx/
+cmake-build-*/
+
+# Logs, temporary files and coverage
+*.log
+logs/
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+coverage/
+*.lcov
+
+# OS files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Optional web tooling
+node_modules/
