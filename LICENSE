@@ -1,0 +1,71 @@
+PROPRIETARY SOFTWARE LICENSE
+
+  Copyright (c) 2026 Denis Casian. All rights reserved.
+
+  ==============================================================================
+
+  SMARTREMIND — PROPRIETARY SOFTWARE LICENSE
+
+  This software, “SmartRemind,” including associated source code, compiled code,
+  design assets, documentation and related materials (collectively, the
+  “Software”), is the exclusive proprietary property of Denis Casian
+  (“the Author”), except for third-party components used under their licences.
+
+  GRANT OF LICENCE
+
+  The Author grants end users a limited, non-exclusive, non-transferable,
+  revocable licence to use the compiled application solely for lawful personal,
+  non-commercial purposes through authorized distribution channels such as
+  Google Play, subject to this Licence and applicable store terms.
+
+  RESTRICTIONS
+
+  You may not, without prior written permission from the Author:
+
+1. Copy, reproduce or distribute the Software or a substantial portion of it.
+2. Modify, adapt, translate or create derivative works from the Software.
+3. Sell, resell, sublicense, transfer or commercially exploit the Software.
+4. Reverse engineer, decompile or derive source code, except where the law
+   expressly prohibits that restriction.
+5. Bypass usage limits, purchase checks, entitlement controls or security.
+6. Remove or obscure copyright, trademark or proprietary notices.
+7. Use the “SmartRemind” name, logo or branding without permission.
+8. Use the Software unlawfully or in a way that harms users or services.
+
+  THIRD-PARTY COMPONENTS AND SERVICES
+
+• Google Play Billing
+  Purchase processing, localized pricing, refunds and subscription management.
+• RevenueCat
+  Anonymous purchase-token and entitlement verification.
+• ThreeTenABP
+  Local date and time calculations; it makes no network request.
+
+  Third-party components remain subject to their own licences and policies.
+
+  DISCLAIMER OF WARRANTIES
+
+  THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+  PURPOSE, ACCURACY, AVAILABILITY OR NON-INFRINGEMENT.
+
+  LIMITATION OF LIABILITY
+
+  TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR INDIRECT,
+  INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING
+  LOSS OF LOCAL DATA, PROFITS, GOODWILL OR SERVICE AVAILABILITY, ARISING FROM USE
+  OF OR INABILITY TO USE THE SOFTWARE.
+
+  GOVERNING LAW
+
+  This Licence is governed by the laws of Romania, subject to mandatory consumer
+  protections that apply in the user’s country of residence.
+
+  CONTACT
+
+Developer: Denis Casian
+Email: support@deniscasian.com
+Website: https://deniscasian.com/
+App: https://play.google.com/store/apps/details?id=com.smartreminddc.app
+
+  Copyright (c) 2026 Denis Casian. All rights reserved.
