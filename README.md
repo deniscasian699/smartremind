@@ -11,6 +11,7 @@
 [![Ads](https://img.shields.io/badge/Third--Party%20Ads-None-success?style=for-the-badge)](./PRIVACY_POLICY.md)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](./LICENSE)
 
+<img src="assets/banner.png" alt="Banner" width="100%" />
 
 ## Screenshots
 
