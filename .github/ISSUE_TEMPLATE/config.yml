@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 General Support
+    url: https://contact.deniscasian.com/
+    about: General questions, billing and privacy requests
+  - name: 🐛 External Bug Tracker
+    url: https://bugs.deniscasian.com/
+    about: Report an app problem through the official bug tracker
+  - name: 📱 Download SmartRemind
+    url: https://play.google.com/store/apps/details?id=com.smartreminddc.app
+    about: Open the official Google Play listing
+  - name: 🔐 Security Report
+    url: mailto:support@deniscasian.com
+    about: Report vulnerabilities privately, never in a public issue
