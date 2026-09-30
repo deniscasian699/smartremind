@@ -136,6 +136,6 @@ If you have any questions about these Terms, please contact us at:
 
 - **Support Email:** [support@rdcapps.com](mailto:support@rdcapps.com)
 
-- **Website:** [deniscasian.com](https://deniscasian.com)
+- **Website:** [rdcapps.com](https://rdcapps.com)
 
 - **Privacy Policy:** [policy.rdcapps.com/smartremind.html](https://policy.rdcapps.com/smartremind.html)
