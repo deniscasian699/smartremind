@@ -8,7 +8,7 @@
 
 **Contact:** [support@rdcapps.com](mailto:support@rdcapps.com)  
 
-**Website:** [deniscasian.com](https://deniscasian.com)  
+**Website:** [rdcapps.com](https://rdcapps.com)  
 
 **Privacy Policy:** [policy.rdcapps.com/smartremind.html](https://policy.rdcapps.com/smartremind.html)
 
@@ -216,7 +216,7 @@ If you have any questions or concerns about this Privacy Policy or the App's dat
 
 **Email:** [support@rdcapps.com](mailto:support@rdcapps.com)  
 
-**Website:** [deniscasian.com](https://deniscasian.com)  
+**Website:** [rdcapps.com](https://rdcapps.com)  
 
 **Bug reports:** [bugs.rdcapps.com](https://bugs.rdcapps.com)  
 
