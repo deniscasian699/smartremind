@@ -1,0 +1,113 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Denis Casian. All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SMARTREMIND — PROPRIETARY SOFTWARE LICENSE
+
+This software, "SmartRemind," including all associated source code, design
+assets, documentation, and related materials (collectively, the "Software"),
+is the exclusive proprietary property of Denis Casian ("the Author").
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GRANT OF LICENSE
+
+The Author grants end users a limited, non-exclusive, non-transferable,
+revocable license to use the compiled application ("SmartRemind") solely for
+personal, non-commercial purposes through authorized distribution channels
+(e.g., Google Play Store), subject to the terms of this License and any
+applicable store terms of service.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESTRICTIONS
+
+You may NOT, without prior written permission from the Author:
+
+  1. Copy, reproduce, or duplicate the Software or any portion thereof.
+  2. Modify, adapt, translate, or create derivative works based on the Software.
+  3. Distribute, publish, sublicense, sell, resell, transfer, assign, or
+     otherwise make the Software available to any third party.
+  4. Reverse engineer, disassemble, decompile, decode, or otherwise attempt
+     to derive the source code of the Software.
+  5. Remove, alter, or obscure any proprietary notices, labels, or marks
+     on or in the Software.
+  6. Use the Software or any part of it for commercial purposes without
+     explicit written consent from the Author.
+  7. Use the name "SmartRemind," the application logo, or any associated
+     branding in any context without prior written permission.
+  8. Use automated means to abuse the app or its third-party services.
+  9. Use any means to block, interfere with, or circumvent advertising
+     served through the app, except through supported privacy controls or
+     an eligible ad-removal purchase.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THIRD-PARTY COMPONENTS
+
+SmartRemind uses the following third-party services for advertising
+and purchase functionality:
+
+  • RevenueCat (https://www.revenuecat.com/)
+    Subscription and purchase management.
+
+  • Google Play Billing
+    Payment processing. Subject to Google's terms of service.
+
+  • Google AdMob (https://admob.google.com/)
+    Advertising SDK. Subject to Google's terms of service.
+    Shown to users who have not purchased a Supporter tier.
+
+  • Google User Messaging Platform
+    Advertising consent and privacy choices where applicable.
+
+  • ThreeTenABP and AndroidX libraries
+    Local date/time, scheduling and interface functionality.
+    Third-party components remain subject to their respective licenses.
+
+All other components of the Software remain subject to this proprietary
+license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, ACCURACY OF REMINDER DELIVERY, OR NON-INFRINGEMENT.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, OR FREE OF SECURITY VULNERABILITIES. REMINDER DELIVERY CAN BE
+AFFECTED BY DEVICE SETTINGS, PERMISSIONS AND ANDROID RESTRICTIONS, AND SHOULD
+NOT BE RELIED UPON AS THE SOLE SAFEGUARD FOR SAFETY-CRITICAL TASKS.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws
+of Romania, without regard to its conflict of law provisions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+  Email:   support@rdcapps.com
+  Website: https://deniscasian.com
+  App:     https://play.google.com/store/apps/details?id=com.smartreminddc.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Copyright (c) 2026 Denis Casian. All rights reserved.
