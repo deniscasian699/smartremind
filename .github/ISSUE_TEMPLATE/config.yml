@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 General Support
+    url: mailto:support@rdcapps.com
+    about: For general questions, billing, or account issues
+  - name: 🐛 Bug Reports (External)
+    url: https://bugs.rdcapps.com
+    about: Report bugs directly on our bug tracker
+  - name: 📱 Download SmartRemind
+    url: https://play.google.com/store/apps/details?id=com.smartreminddc.app
+    about: Get SmartRemind on Google Play
