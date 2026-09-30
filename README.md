@@ -231,7 +231,7 @@ applicable requirements. The ad-privacy entry is hidden when ads are disabled.
 
 | | |
 |---|---|
-| 🌐 Website | [deniscasian.com](https://deniscasian.com) |
+| 🌐 Website | [rdcapps.com](https://rdcapps.com) |
 | 📧 Support | [support@rdcapps.com](mailto:support@rdcapps.com) |
 | 🐛 Bug Reports | [bugs.rdcapps.com](https://bugs.rdcapps.com) |
 | 📱 App | [SmartRemind on Google Play](https://play.google.com/store/apps/details?id=com.smartreminddc.app) |
