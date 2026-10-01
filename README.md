@@ -178,7 +178,7 @@ applicable requirements. The ad-privacy entry is hidden when ads are disabled.
 
 ---
 
-## 📸 Tablet & Romanian Screenshots
+## 📸 Tablet
 
 <div align="center">
 
@@ -189,26 +189,6 @@ applicable requirements. The ad-privacy entry is hidden when ads are disabled.
 <img src="assets/screenshots/screen5tab.png" alt="Tablet settings" width="400" />
 
 </div>
-
-<details>
-<summary>🇷🇴 Romanian screenshots</summary>
-
-<img src="assets/Romanian/banner.png" alt="SmartRemind banner in Romanian" width="100%" />
-<img src="assets/Romanian/logo.png" alt="SmartRemind logo" width="120" />
-
-<img src="assets/Romanian/screenshots/screen1.png" alt="Mementouri" width="180" />
-<img src="assets/Romanian/screenshots/screen2.png" alt="Obiceiuri" width="180" />
-<img src="assets/Romanian/screenshots/screen3.png" alt="Calendar" width="180" />
-<img src="assets/Romanian/screenshots/screen4.png" alt="Istoric" width="180" />
-<img src="assets/Romanian/screenshots/screen5.png" alt="Setări" width="180" />
-
-<img src="assets/Romanian/screenshots/screen1tab.png" alt="Mementouri pe tabletă" width="400" />
-<img src="assets/Romanian/screenshots/screen2tab.png" alt="Obiceiuri pe tabletă" width="400" />
-<img src="assets/Romanian/screenshots/screen3tab.png" alt="Calendar pe tabletă" width="400" />
-<img src="assets/Romanian/screenshots/screen4tab.png" alt="Istoric pe tabletă" width="400" />
-<img src="assets/Romanian/screenshots/screen5tab.png" alt="Setări pe tabletă" width="400" />
-
-</details>
 
 ---
 
